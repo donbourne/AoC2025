@@ -1,3 +1,10 @@
+
+# REMAINING STEPS...
+# create a list of all the rectangles, with red at 2 opposite corners, that only contain red or green tiles
+# create the corresponding list of rectangles using the original coordinates
+# compute the area of each rectangle
+# find the area of the largest rectangle
+
 import time
 import numpy as np
 import sys
